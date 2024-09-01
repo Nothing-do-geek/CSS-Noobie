@@ -1,0 +1,8 @@
+.p-profiles-show:before {
+    content: " ";
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+    position: fixed;
+    background: url(https://media.giphy.com/media/26BRyql7J3iOx875u/giphy.gif) fixed;
+  }
